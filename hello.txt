@@ -1,2 +1,6 @@
 hello git 
+<<<<<<< HEAD
 master
+=======
+hot-fix-test
+>>>>>>> hot-fix
